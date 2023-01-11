@@ -1,0 +1,15 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "json server tutorial",
+  "main": "index.js",
+  "scripts": {
+    "json-serve": "json-server --watch data/db.json --port 4000 --routes routes.json"
+  },
+  "keywords": ["json server","fake rest api"],
+  "author": "Pouria Nayeb",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

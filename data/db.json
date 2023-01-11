@@ -1,0 +1,146 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "xbox series s",
+      "price": 299,
+      "category": "game console",
+      "producer": "microsoft xbox",
+      "description": "description about xbox series s"
+    },
+    {
+      "id": 2,
+      "title": "xbox series x",
+      "price": 500,
+      "category": "game console",
+      "producer": "microsoft xbox",
+      "description": "description about xbox series x"
+    },
+    {
+      "id": 3,
+      "title": "nintendo switch",
+      "price": 230,
+      "category": "game console",
+      "producer": "nintendo",
+      "description": "description about nintendo switch"
+    },
+    {
+      "id": 4,
+      "title": "nintendo switch oled",
+      "price": 300,
+      "category": "game console",
+      "producer": "nintendo",
+      "description": "description about nintendo switch oled"
+    },
+    {
+      "id": 5,
+      "title": "ps4",
+      "price": 270,
+      "category": "game console",
+      "producer": "sony electronics",
+      "description": "description about ps4"
+    },
+    {
+      "id": 6,
+      "title": "ps5",
+      "price": 650,
+      "category": "game console",
+      "producer": "sony electronics",
+      "description": "description about ps5"
+    },
+    {
+      "id": 7,
+      "title": "legend of zelda",
+      "price": 50,
+      "category": "game console",
+      "producer": "game",
+      "description": "description about legend of zelda"
+    },
+    {
+      "id": 8,
+      "title": "dirt5",
+      "price": 45,
+      "category": "game",
+      "producer": "EA",
+      "description": "description about Dirt5"
+    },
+    {
+      "id": 9,
+      "title": "assassin valhella",
+      "price": 48,
+      "category": "game",
+      "producer": "Ubisoft",
+      "description": "description about assassin valhella"
+    },
+    {
+      "id": 10,
+      "title": "horizon forza",
+      "price": 55,
+      "category": "game",
+      "producer": "playground games",
+      "description": "description about horizon forza"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "body": "review 1 about xbox series s",
+      "rating": 4.8,
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "body": "review 2 about xbox series s",
+      "rating": 4.5,
+      "productId": 1
+    },
+    {
+      "id": 3,
+      "body": "review 3 about xbox series s",
+      "rating": 4.7,
+      "productId": 1
+    },
+    {
+      "id": 4,
+      "body": "review 1 about nintendo switch oled",
+      "rating": 3.8,
+      "productId": 4
+    },
+    {
+      "id": 5,
+      "body": "review 2 about nintendo switch oled",
+      "rating": 3.9,
+      "productId": 4
+    },
+    {
+      "id": 6,
+      "body": "review 1 about ps5",
+      "rating": 4.5,
+      "productId": 6
+    },
+    {
+      "id": 7,
+      "body": "review 2 about ps5",
+      "rating": 3.1,
+      "productId": 6
+    },
+    {
+      "id": 8,
+      "body": "review 3 about ps5",
+      "rating": 3.6,
+      "productId": 6
+    },
+    {
+      "id": 9,
+      "body": "review 4 about ps5",
+      "rating": 5,
+      "productId": 6
+    },
+    {
+      "id": 10,
+      "body": "review 1 about assassin valhella",
+      "rating": 4.9,
+      "productId": 8
+    }
+  ]
+}
